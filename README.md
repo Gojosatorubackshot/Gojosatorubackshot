@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gojosatorubackshot
+- 👋 Hi, I’m @Gojosatoru
 - 👀 I’m interested in creating games
 - 🌱 I’m currently learning how to code a game
 - 💞️ I’m looking to collaborate on other projects with friends
